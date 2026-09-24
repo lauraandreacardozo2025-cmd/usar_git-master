@@ -12,7 +12,6 @@ format:
     code-fold: true
     
 ---
-
 # Presentación
 
 Este es un documento de prueba para enseñar a usar `GitHub` y `RPubs`.
